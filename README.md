@@ -1,2 +1,2 @@
 # Chatty
-Usual messenger
+The usual messenger
